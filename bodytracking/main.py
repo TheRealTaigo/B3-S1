@@ -1,7 +1,6 @@
-from pathlib import Path
 
-MODEL_PATH = (
-    Path(__file__).parent
-    / "models"
-    / "pose_landmarker_lite.task"
-)
+from kivy.app import App
+from kivy.core.window import Window
+from workouts.pushup.pushup_page import PushupPage
+
+
