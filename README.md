@@ -64,11 +64,7 @@ buildozer -v android debug
 
 De APK staat daarna in de map `bin/`.
 
-> Pas de bestandsnamen en commando’s hierboven aan naar jullie eigen opzet.
-
 ## Team
-
-- Jason Bakker
 - Floris van den Berg
 - Tygo Offermans
 - Anja Rashidi
