@@ -38,7 +38,7 @@ class MainLayout(BoxLayout):
 
         self.top_section = Section(
             bg_color=(0.15, 0.15, 0.2, 1),
-            size_hint=(1, 0.8),
+            size_hint=(1, 0.9),
         )
 
         self.bottom_section = Section(
